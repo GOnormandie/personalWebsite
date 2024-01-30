@@ -10,7 +10,7 @@ sections:
     content:
       title: GOnormandie
       image:
-        filename: hero-academic.png
+        filename: gonlogo.png
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
@@ -39,10 +39,11 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -125,6 +127,7 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: award
     content:
       title: Awards
       # Date format for experience
