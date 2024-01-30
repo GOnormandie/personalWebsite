@@ -4,8 +4,8 @@ title: Normandie González-Orellana
 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Normandie
+last_name: González-Orellana
 
 # Status emoji
 status:
@@ -19,10 +19,9 @@ role: Data Scientist | Conservation Ecologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Learning Partnership
-    url: https://www.jointhepartnership.net/
-  - name: Forward Learning
-    url: https://forwardlearning.com/
+  - name: The Learning Partnership | Forward Learning
+    url: ''
+  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include conservation biology, spatial ecology, symbiosis and climate change.
@@ -45,15 +44,15 @@ education:
       institution: University of Puerto Rico, Humacao Campus
       year: 2019
 
-# Skills
+
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+Skills:
   - name: Technical
     items:
       - name: R-programming
         description: ''
         percent: 100
-        icon: r-programming
+        icon: erre
         icon_pack: custom
       - name: Data Science
         description: ''
@@ -116,22 +115,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: mailto:gonormandie@gmail.com
+  - icon: researchgate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'https://www.researchgate.net/profile/Normandie-Gonzalez'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/GOnormandie
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/normandie-gonz%C3%A1lez-orellana-msc-558a38187
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

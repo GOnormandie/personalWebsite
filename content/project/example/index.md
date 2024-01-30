@@ -1,22 +1,18 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: _Psychilis kraenzlinii_
+summary: Distribution and germination patterns of the endemic epiphyte _P. kraenzlinii_ (Orchidaceae) in the Susua State Forest.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Master's Thesis
+date: '2023-11-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Elif Kardas
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
