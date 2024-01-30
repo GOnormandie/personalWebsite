@@ -53,12 +53,12 @@ Skills:
         description: ''
         percent: 100
         icon: erre
-        icon_pack: custom
-      - name: Data Science
+        icon_pack: custom 
+      - name: Microsoft and G-Suite
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: suite
+        icon_pack: custom
       - name: Arc-GIS
         description: ''
         percent: 80
@@ -155,6 +155,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<p style='text-align: justify;'>Born and raised in Puerto Rico surrounded by nature, it seemed meant to be that I would become a scientist one day. I did my BSc at the University of Puerto Rico in Humacao where I worked with population dynamics of feral cats. My grandmothers transmitted their love for Orchids to me, and being an admirer of the work of Charles Darwin, I decided to complete a MSc studying orchids. I completed my MSc at the University of Puerto Rico in Río Piedras where I worked with the distribution and germination patterns of an epiphytic orchid endemic to Puerto Rico and how the interactions with its symbionts affect those patterns.
 
-Normandie González-Orellana is a Data Scientist and Conservation Ecologist from Puerto Rico. Her research focuses on community ecology, particularly symbiosis and spatial ecology. She is an advocate for inclusivity and accessibility to science. Her passion for education and science communication prompted her to work as a Data Manager for a Research Education company, where she currently is in charge of the creation of educational datasets and material for students in Puerto Rico.
-{style="text-align: justify;"}
+<p style='text-align: justify;'>I am an advocate for inclusivity and accessibility to science, which prompted me to work as a Data Manager for a Research Education company, where she currently is in charge of the creation of educational datasets and material for students in Puerto Rico.
+
+<p style='text-align: justify;'>I am in love with books and have not been known to say noto a cup of coffee or a pastry. I believe that food taste better and the breeze of the beach is cozier when shared with friends and family.</p>
+

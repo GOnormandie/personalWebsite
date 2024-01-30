@@ -114,7 +114,7 @@ sections:
           date_start: '2019-08-01'
           date_end: '2023-05-01'
           description: |2-
-              Started as a General Biology Lab instructor and then moved on to Undergraduate Research Supervisor at the Natural History Collection of the University of Puerto Rico in Rio Piedras.
+              Started as a General Biology Lab instructor and then moved on to Undergraduate Research Supervisor at the Natural History Collection of the University of Puerto Rico in Río Piedras.
         - title: Teacher's Assistant
           company: UPR-IPERT Program (University of Puerto Rico in Humacao)
           company_url: https://www.uprh.edu/
