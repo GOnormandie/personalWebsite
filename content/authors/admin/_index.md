@@ -47,7 +47,7 @@ education:
 
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 Skills:
-  - name: Technical
+  - name: Software Skills
     items:
       - name: R-programming
         description: ''
@@ -74,37 +74,57 @@ Skills:
         percent: 20
         icon: database
         icon_pack: fas
+      - name: PowerBi
+        description: ''
+        percent: 70
+        icon: powerbi
+        icon_pack: custom
+      - name: Markdown and Rmarkdown
+        description: ''
+        percent: 85
+        icon: markdown
+        icon_pack: fab
       
       
         
-  - name: Hobbies
+  - name: Data Science Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Family & Friends
-        description: ''
-        percent: 100
-        icon: people-roof
-        icon_pack: fas
-      - name: Reading
+      - name: Data Mining and Management
         description: ''
         percent: 90
-        icon: book-open-reader
+        icon: magnifying-glass-chart
         icon_pack: fas
-      - name: Coffee
+      - name: Data Vizualization and Storytelling
         description: ''
-        percent: 80
-        icon: mug-hot
+        percent: 95
+        icon: chart-area
         icon_pack: fas
-      - name: Hiking
+      - name: Descriptive Statistics
         description: ''
         percent: 70
-        icon: person-hiking
+        icon: chart-pie
         icon_pack: fas
-      - name: Foodie
+      - name: Lineal Models
         description: ''
-        percent: 60
-        icon: apple-whole
+        percent: 80
+        icon: chart-line
+        icon_pack: fas
+      - name: Spatial Analysis
+        description: ''
+        percent: 70
+        icon: layer-group
+        icon_pack: fas
+      - name: Machine Learning
+        description: ''
+        percent: 30
+        icon: diagram-project
+        icon_pack: fas
+      - name: Science Communication
+        description: ''
+        percent: 90
+        icon: person-chalkboard
         icon_pack: fas
         
 
