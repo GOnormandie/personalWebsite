@@ -1,6 +1,15 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
-title: About
+title: Normandie González-Orellana
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+![](normandie.jpg)
+
+# About Me
+<p style='text-align: justify;'>
+Early carrer scientist with an interest in Data Science and Ecology. Advocator of inclusivity and accesibility to science and education. Problem solver, critical thinker, pet lover, plant lover but no green thumb, avid reader and coffee addict. 
+</p>
+
+# Education
+
+
