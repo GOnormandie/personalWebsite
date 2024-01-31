@@ -185,6 +185,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: featured
     content:
       title: Publications 
       filters:
@@ -195,6 +196,7 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
+    id: gal
     content:
       title: Gallery
       subtitle: ''

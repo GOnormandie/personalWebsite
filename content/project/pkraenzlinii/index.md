@@ -1,6 +1,6 @@
 ---
 title: Distribution and Germination Patterns of an Epiphytic Orchid 
-summary: Distribution and germination patterns of the endemic epiphyte *P. kraenzlinii* (Orchidaceae) in the Susua State Forest.
+summary: Distribution and germination patterns of the endemic epiphyte *P. kraenzlinii* (Orchidaceae) in the Susúa State Forest.
 tags:
   - Master Thesis
 date: '2023-11-27T00:00:00Z'
@@ -37,5 +37,5 @@ url_video: ''
 <p style='text-align: justify;'>We found that the distribution of established <em>P. kraenzlinii</em> in the Susúa State Forest is not independent of the host-tree species. The orchid showed preference for the endemic shrub, <em>M.portorricensis</em>. Germination varied among host trees, but later stages of germination, and therefore higher probability to find the OMF, where found on <em>Swietenia mahagoni</em> and <em>Randia aculeata</em>, suggesting that germination sites are not necessarily the best sites for development. The results from thsi research lay the foundation for proper conservation and management of <em>P. kraenzlinii</em>. The orchid could benefit from the protection of the also endemic <em>M.portorricensis</em>, as well as the protection of the area where the population is found. Since the pollinator and OMF of the orchid are unknwon, protection of this population and its surrounding is imperative. The population studied here is unussually large, and fruit production and seedling recruitment was observed. This suggests that both the pollinator and the OMF are present in the studied area.
 
 
-<strong> NOTE: This is not meant to be a scientific report, but rather a friendly account of my research project. For more technical details or the scientific report, reach out to me and I will gladly provide te information. </strong>
+<p style='text-align: justify;'><strong> NOTE: This is not meant to be a scientific report, but rather a friendly account of my research project. For more technical details or the scientific report, reach out to me and I will gladly provide te information. </strong>
 </p>

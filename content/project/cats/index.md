@@ -21,5 +21,5 @@ url_video: ''
 
 <p style='text-align: justify;'>
 
-<strong> NOTE: This is not meant to be a scientific report, but rather a friendly account of my research project. For more technical details or the scientific report, reach out to me and I will gladly provide te information. </strong>
+<p style='text-align: justify;'><strong> NOTE: This is not meant to be a scientific report, but rather a friendly account of my research project. For more technical details or the scientific report, reach out to me and I will gladly provide te information. </strong>
 </p>
