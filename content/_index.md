@@ -175,7 +175,7 @@ sections:
         - name: Undergraduate Research
           tag: Undergraduate Research
         - name: Master's Thesis
-          tag: Master's Thesis
+          tag: Master Thesis
         - name: Other
           tag: Other
     design:
