@@ -123,7 +123,7 @@ sections:
           date_start: '2019-02-01'
           date_end: '2019-07-01'
           description: |2-
-              Assited professors and instructors in different R and Statistics workshops aimed at undergraduates, graduates, and faculty of diferent universities in Puerto Rico.
+              Assisted professors and instructors in different R and Statistics workshops aimed at undergraduates, graduates, and faculty of different universities in Puerto Rico.
     design:
       columns: '2'
   - block: experience

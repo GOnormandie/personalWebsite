@@ -2,7 +2,7 @@
 title: "Understanding Orchid Conservation: One Species at a Time"
 authors:
 - admin
-- Arachne Salazar-Mendoza
+- Aragne Salazar-Mendoza
 - Yalmarie Numan
 - James D. Ackeman
 author_notes:
