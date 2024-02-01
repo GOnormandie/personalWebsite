@@ -54,11 +54,6 @@ Skills:
         percent: 100
         icon: erre
         icon_pack: custom 
-      - name: Microsoft and G-Suite
-        description: ''
-        percent: 100
-        icon: suite
-        icon_pack: custom
       - name: Arc-GIS
         description: ''
         percent: 80
@@ -91,24 +86,19 @@ Skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Data Mining and Management
+      - name: Data Mining & Management
         description: ''
-        percent: 90
+        percent: 95
         icon: magnifying-glass-chart
         icon_pack: fas
-      - name: Data Vizualization and Storytelling
+      - name: Data Vizualization & Storytelling
         description: ''
         percent: 95
         icon: chart-area
         icon_pack: fas
-      - name: Descriptive Statistics
+      - name: Logistic Regression & GLMs
         description: ''
-        percent: 70
-        icon: chart-pie
-        icon_pack: fas
-      - name: Lineal Models
-        description: ''
-        percent: 80
+        percent: 75
         icon: chart-line
         icon_pack: fas
       - name: Spatial Analysis
@@ -157,7 +147,7 @@ highlight_name: true
 ---
 <p style='text-align: justify;'>Born and raised in Puerto Rico surrounded by nature, it seemed meant to be that I would become a scientist one day. I did my BSc at the University of Puerto Rico in Humacao where I worked with population dynamics of feral cats. My grandmothers transmitted their love for Orchids to me, and being an admirer of the work of Charles Darwin, I decided to complete a MSc studying orchids. I completed my MSc at the University of Puerto Rico in Río Piedras where I worked with the distribution and germination patterns of an epiphytic orchid endemic to Puerto Rico and how the interactions with its symbionts affect those patterns.
 
-<p style='text-align: justify;'>I am an advocate for inclusivity and accessibility to science, which prompted me to work as a Data Manager for a Research Education company, where she currently is in charge of the creation of educational datasets and material for students in Puerto Rico.
+<p style='text-align: justify;'>I am an advocate for inclusivity and accessibility to science, which prompted me to work as a Data Manager for a Research Education company, where currently I am in charge of the creation of educational datasets and material for students in Puerto Rico.
 
-<p style='text-align: justify;'>I am in love with books and have not been known to say noto a cup of coffee or a pastry. I believe that food taste better and the breeze of the beach is cozier when shared with friends and family.</p>
+<p style='text-align: justify;'>I am in love with books and have not been known to say no to a cup of coffee or a pastry. I believe that food taste better and the breeze at the beach is cozier when shared with friends and family.</p>
 
