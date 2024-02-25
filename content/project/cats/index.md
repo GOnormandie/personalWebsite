@@ -19,7 +19,6 @@ url_slides: ''
 url_video: ''
 ---
 
-<p style='text-align: justify;'>
-
+<p style='text-align: justify;'> The domestic cat has been banned from a number of islands in the world. For example, they were eradicated from number of outlying islands of New Zealand, as part of conservation programs that aimed to protect and/or restore native populations of birds and mammals. In Australia they are having open seasons to hunt cats to lower the population size. Both countries are only looking to protect their native species, since the negative effects of free roaming cats in native fauna have been demonstrated in several metanalyses around the world, especially on islands. Puerto Rico has a high number of feral cats, still a reliable estimate of the population size has not been done. We used mark-recapture techniques in three municipalities of Puerto Rico to estimate feral cat population size in the area. An estimation of the population size of cats is the first step towards understanding the possible effects of the population on the native fauna and public health of the archipelago, and the development of management strategies.
 <p style='text-align: justify;'><strong> NOTE: This is not meant to be a scientific report, but rather a friendly account of my research project. For more technical details or the scientific report, reach out to me and I will gladly provide te information. </strong>
 </p>
