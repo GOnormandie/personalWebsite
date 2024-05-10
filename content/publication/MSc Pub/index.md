@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: https://revistas.ucr.ac.cr/index.php/lankesteriana/article/view/59617/59628
 url_dataset: ''
 url_poster: ''
 url_project: ''
