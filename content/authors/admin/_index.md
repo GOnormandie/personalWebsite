@@ -19,12 +19,14 @@ role: Data Scientist | Conservation Ecologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Learning Partnership | Forward Learning
-    url: ''
+  - name: Population Biology and Genomic Group
+    url: 'https://popbiolgenomics.org/'
+  - name: Curtin University, Bentley Australia
+    url: 'https://www.curtin.edu.au/about/'
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include conservation biology, spatial ecology, symbiosis and climate change.
+bio: My research interests include conservation biology, spatial ecology and climate change.
 
 # Interests to show in About widget
 interests:
@@ -37,6 +39,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD Candidate in Environmental Sciences
+      institution: Curtin University, Bentley Campus
+      year: Present
     - course: Master of Science in Biology
       institution: University of Puerto Rico, Río Piedras Campus
       year: 2023
@@ -74,9 +79,9 @@ Skills:
         percent: 70
         icon: powerbi
         icon_pack: custom
-      - name: Markdown and Rmarkdown
+      - name: Markdown, Rmarkdown and Quarto
         description: ''
-        percent: 85
+        percent: 100
         icon: markdown
         icon_pack: fab
       
