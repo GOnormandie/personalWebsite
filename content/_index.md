@@ -64,12 +64,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Manager
-          company: Forward Learning
-          company_url: https://forwardlearning.com/
-          company_logo: org-x
+      - title: PhD Candidate
+          company: Curtin University, Bentley
+          company_url: https://www.jointhepartnership.net/
+          company_logo: org-gc
           location: Remote
-          date_start: '2023-07-01'
+          date_start: '2024-12-01'
+          date_end: ''
+          description: |2-
+              Currently doing my PhD in Environmental Sciences under the supervision of Dr. Ben Phillips at the Population Biology and Genomics Group. My research focuses in Early Intervention of Invasive Species.
+        - title: Data Manager/Consultant
+          company: The Learning Partnership
+          company_url: https://www.jointhepartnership.net/
+          company_logo: org-gc
+          location: Remote
+          date_start: '2023-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -78,14 +87,14 @@ sections:
               * Metadata
               * Data Publication and Maintenance
               * Educational Material Development
-        - title: Data Manager
-          company: The Learning Partnership
-          company_url: https://www.jointhepartnership.net/
-          company_logo: org-gc
-          location: Remote
-          date_start: '2023-03-01'
-          date_end: ''
-          description: |2-
+          - title: Data Manager
+            company: Forward Learning
+            company_url: https://forwardlearning.com/
+            company_logo: org-x
+            location: Remote
+            date_start: '2023-07-01'
+            date_end: 'December 2024'
+            description: |2-
               Responsibilities include:
 
               * Data Mining, Wrangling, Analysis and Visualization
@@ -139,6 +148,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: WAARC Postgraduate Research Scholarship Program
+          company: Western Australia Agricultural Research Collaboration (WAARC)
+          company_url: https://waarc.org.au/postgraduate-research-scholarship-program/round-2-scholarships-opening-2025/
+          company_logo: waarc
+          date_start: '2025-08-01'
+          date_end: '2028-12-01'
+          
         - title: Conservation Committee Grant
           company: American Orchid Society
           company_url: https://www.aos.org/

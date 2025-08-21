@@ -15,11 +15,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist | Conservation Ecologist
+role: Data Scientist | Ecologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Population Biology and Genomic Group
+  - name: Population Biology & Genomics Group
     url: 'https://popbiolgenomics.org/'
   - name: Curtin University, Bentley Australia
     url: 'https://www.curtin.edu.au/about/'
@@ -39,9 +39,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate in Environmental Sciences
-      institution: Curtin University, Bentley Campus
-      year: Present
     - course: Master of Science in Biology
       institution: University of Puerto Rico, Río Piedras Campus
       year: 2023
