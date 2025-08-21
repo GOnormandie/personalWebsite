@@ -68,7 +68,7 @@ sections:
           company: Curtin University, Bentley
           company_url: https://www.jointhepartnership.net/
           company_logo: org-gc
-          location: Remote
+          location: Bentley, WA, Australia
           date_start: '2024-12-01'
           date_end: ''
           description: |2-
