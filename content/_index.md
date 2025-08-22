@@ -72,7 +72,10 @@ sections:
         date_start: '2024-12-01'
         date_end: ''
         description: |2-
-            Currently doing my PhD in Environmental Sciences under the supervision of Dr. Ben Phillips at the Population Biology and Genomics Group. My research focuses in Early Intervention of Invasive Species.
+            Currently doing my PhD in Environmental Sciences under the 
+            supervision of Dr. Ben Phillips at the Population Biology and 
+            Genomics Group. My research focuses in Early Intervention of 
+            Invasive Species.
       - title: Data Manager/Consultant
         company: The Learning Partnership
         company_url: https://www.jointhepartnership.net/
