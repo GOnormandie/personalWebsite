@@ -11,7 +11,7 @@ author_notes:
 - ''
 - ''
 date: "2022-12-30T00:00:00Z"
-doi: "https://doi.org/10.15517/lank.v21i3.48871"
+doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
