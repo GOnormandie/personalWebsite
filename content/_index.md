@@ -148,6 +148,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: WAARC Postgraduate Research Scholarship Program
+          company: Western Australia Agricultural Research Collaboration (WAARC)
+          company_url: https://waarc.org.au/postgraduate-research-scholarship-program/round-2-scholarships-opening-2025/
+          company_logo: waarc
+          date_start: '2025-08-01'
+          date_end: '2028-12-01'
+          
         - title: Conservation Committee Grant
           company: American Orchid Society
           company_url: https://www.aos.org/
