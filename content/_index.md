@@ -73,12 +73,12 @@ sections:
           date_end: ''
           description: |2-
               Currently doing my PhD in Environmental Sciences under the supervision of Dr. Ben Phillips at the Population Biology and Genomics Group. My research focuses in Early Intervention of Invasive Species.
-        - title: Data Manager
-          company: Forward Learning
-          company_url: https://forwardlearning.com/
-          company_logo: org-x
+        - title: Data Manager/Consultant
+          company: The Learning Partnership
+          company_url: https://www.jointhepartnership.net/
+          company_logo: org-gc
           location: Remote
-          date_start: '2023-07-01'
+          date_start: '2023-03-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -87,13 +87,13 @@ sections:
               * Metadata
               * Data Publication and Maintenance
               * Educational Material Development
-        - title: Data Manager
-          company: The Learning Partnership
-          company_url: https://www.jointhepartnership.net/
-          company_logo: org-gc
+        - title: Data Manager/Consultant
+          company: Forward Learning
+          company_url: https://forwardlearning.com/
+          company_logo: org-x
           location: Remote
-          date_start: '2023-03-01'
-          date_end: ''
+          date_start: '2023-07-01'
+          date_end: '2024-12-01'
           description: |2-
               Responsibilities include:
 
