@@ -12,7 +12,6 @@ author_notes:
 - "First author"
 - ''
 date: "2024-07-01T00:00:00Z"
-doi: "https://nestanet.org/TES"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
