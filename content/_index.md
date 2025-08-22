@@ -67,7 +67,7 @@ sections:
         - title: PhD Candidate
           company: Curtin University, Bentley
           company_url: https://www.jointhepartnership.net/
-          company_logo: org-gc
+          company_logo: pbgcurtin
           location: Bentley, WA, Australia
           date_start: '2024-12-01'
           date_end: ''
