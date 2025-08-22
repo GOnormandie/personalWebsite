@@ -3,7 +3,7 @@ title: Burning Bridges: Early eradication and management of invasive species
 summary: My PhD Research aims to develop models for early eradication and management of invasive species to help with the advancement of informed biosecurity strategies in Australia.
 tags:
   - PhD Research
-date: ''
+date: '2024-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
