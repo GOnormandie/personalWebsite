@@ -64,6 +64,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Candidate
+          company: Curtin University, Bentley
+          company_url: https://www.jointhepartnership.net/
+          company_logo: org-gc
+          location: Bentley, WA, Australia
+          date_start: '2024-12-01'
+          date_end: ''
+          description: |2-
+              Currently doing my PhD in Environmental Sciences under the supervision of Dr. Ben Phillips at the Population Biology and Genomics Group. My research focuses in Early Intervention of Invasive Species.
         - title: Data Manager
           company: Forward Learning
           company_url: https://forwardlearning.com/
