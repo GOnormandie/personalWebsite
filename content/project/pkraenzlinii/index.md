@@ -14,7 +14,7 @@ image:
 
 
 url_code: ''
-url_pdf: [Sicentific Pub](http://archivo.revistas.ucr.ac.cr/index.php/lankesteriana/article/view/59617/59628)
+url_pdf: 'http://archivo.revistas.ucr.ac.cr/index.php/lankesteriana/article/view/59617/59628'
 url_slides: ''
 url_video: ''
 ---
