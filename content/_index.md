@@ -90,20 +90,20 @@ sections:
             * Metadata
             * Data Publication and Maintenance
             * Educational Material Development
-        - title: Data Manager
-          company: Forward Learning
-          company_url: https://forwardlearning.com/
-          company_logo: org-x
-          location: Remote
-          date_start: '2023-07-01'
-          date_end: 'December 2024'
-          description: |2-
-            Responsibilities include:
+      - title: Data Manager
+        company: Forward Learning
+        company_url: https://forwardlearning.com/
+        company_logo: org-x
+        location: Remote
+        date_start: '2023-07-01'
+        date_end: 'December 2024'
+        description: |2-
+          Responsibilities include:
 
-            * Data Mining, Wrangling, Analysis and Visualization
-            * Metadata
-            * Data Publication and Maintenance
-            * Educational Material Development
+          * Data Mining, Wrangling, Analysis and Visualization
+          * Metadata
+          * Data Publication and Maintenance
+          * Educational Material Development
         - title: Data Manager Fellow
           company: NSF Environmental Data Initiative
           company_url: https://edirepository.org/
