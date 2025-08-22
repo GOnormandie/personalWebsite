@@ -20,3 +20,6 @@ url_video: ''
 ---
 
 <p style='text-align: justify;'> We  explore  phorophyte  suitability  for  germination  and  establishment  of  the  epiphytic  orchid,  Psychilis kraenzlinii. We found that the orchid grows on a subset of the available tree species and shows pref-erence for the endemic Machaonia portoricensis (Rubiaceae). The orchid preferred trees with smoother bark, high water holding capacity and low water retention capacity. Microclimatic conditions under which embryos began pre-germination stages mirrored that of the adult orchid, but germination did not, suggesting that suit-able germination sites are not necessarily the best sites for later stages of development.
+
+<p style='text-align: justify;'><strong> NOTE: This is not meant to be a scientific report, but rather a friendly account of my research project. For more technical details or the scientific report, reach out to me and I will gladly provide the information. </strong>
+</p>
