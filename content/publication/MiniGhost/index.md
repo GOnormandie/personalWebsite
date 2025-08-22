@@ -1,5 +1,5 @@
 ---
-title: "A ne miniature ghost orchid appears in the Dominican Republic"
+title: "A new miniature ghost orchid appears in the Dominican Republic"
 authors:
 - James D. Ackeman
 - Eladio Fernández
