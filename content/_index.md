@@ -199,6 +199,8 @@ sections:
           tag: Undergraduate Research
         - name: Master's Thesis
           tag: Master Thesis
+        - name: PhD Research
+          tag: PhD Research
         - name: Other
           tag: Other
     design:
