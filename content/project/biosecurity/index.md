@@ -9,7 +9,7 @@ date: ''
 external_link: ''
 
 image:
-  caption: 
+  caption: ''
   focal_point: Smart
 
 
