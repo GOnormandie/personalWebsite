@@ -155,6 +155,13 @@ sections:
           date_start: '2025-08-01'
           date_end: '2028-12-01'
           
+        - title: Premier's Science Fellowship Program
+          company: Western Australia's Department of Jobs, Tourism, Science and Innovation 
+          company_url: https://www.wa.gov.au/organisation/department-of-energy-and-economic-diversification/department-of-energy-and-economic-diversification-industry-development
+          company_logo: wajobs
+          date_start: '2024-12-01'
+          date_end: '2028-12-01'
+          
         - title: Conservation Committee Grant
           company: American Orchid Society
           company_url: https://www.aos.org/
