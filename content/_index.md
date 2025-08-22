@@ -72,10 +72,7 @@ sections:
         date_start: '2024-12-01'
         date_end: ''
         description: |2-
-            Currently doing my PhD in Environmental Sciences under the 
-            supervision of Dr. Ben Phillips at the Population Biology and 
-            Genomics Group. My research focuses in Early Intervention of 
-            Invasive Species.
+            Currently doing my PhD in Environmental Sciences under the supervision of Dr. Ben Phillips at the Population Biology and Genomics Group. My research focuses in Early Intervention of Invasive Species.
       - title: Data Manager/Consultant
         company: The Learning Partnership
         company_url: https://www.jointhepartnership.net/
@@ -104,38 +101,38 @@ sections:
           * Metadata
           * Data Publication and Maintenance
           * Educational Material Development
-        - title: Data Manager Fellow
-          company: NSF Environmental Data Initiative
-          company_url: https://edirepository.org/
-          company_logo: edi
-          location: Remote
-          date_start: '2022-06-01'
-          date_end: '2022-07-01'
-          description: |2-
-              Responsibilities include:
+      - title: Data Manager Fellow
+        company: NSF Environmental Data Initiative
+        company_url: https://edirepository.org/
+        company_logo: edi
+        location: Remote
+        date_start: '2022-06-01'
+        date_end: '2022-07-01'
+        description: |2-
+          Responsibilities include:
 
-              * Data Mining, Wrangling, Analysis and Visualization
-              * Metadata
-              * Data Publication and Maintenance
-              * Educational Material Development
-        - title: Teaching Assitant (TA)
-          company: University of Puerto Rico, Río Piedras Campus
-          company_url: https://www.uprrp.edu/
-          company_logo: iupi
-          location: San Juan, Puerto Rico
-          date_start: '2019-08-01'
-          date_end: '2023-05-01'
-          description: |2-
-              Started as a General Biology Lab instructor and then moved on to Undergraduate Research Supervisor at the Natural History Collection of the University of Puerto Rico in Río Piedras.
-        - title: Teacher's Assistant
-          company: UPR-IPERT Program (University of Puerto Rico in Humacao)
-          company_url: https://www.uprh.edu/
-          company_logo: uprh
-          location: Humacao, Puerto Rico
-          date_start: '2019-02-01'
-          date_end: '2019-07-01'
-          description: |2-
-              Assisted professors and instructors in different R and Statistics workshops aimed at undergraduates, graduates, and faculty of different universities in Puerto Rico.
+          * Data Mining, Wrangling, Analysis and Visualization
+          * Metadata
+          * Data Publication and Maintenance
+          * Educational Material Development
+      - title: Teaching Assitant (TA)
+        company: University of Puerto Rico, Río Piedras Campus
+        company_url: https://www.uprrp.edu/
+        company_logo: iupi
+        location: San Juan, Puerto Rico
+        date_start: '2019-08-01'
+        date_end: '2023-05-01'
+        description: |2-
+          Started as a General Biology Lab instructor and then moved on to Undergraduate Research Supervisor at the Natural History Collection of the University of Puerto Rico in Río Piedras.
+      - title: Teacher's Assistant
+        company: UPR-IPERT Program (University of Puerto Rico in Humacao)
+        company_url: https://www.uprh.edu/
+        company_logo: uprh
+        location: Humacao, Puerto Rico
+        date_start: '2019-02-01'
+        date_end: '2019-07-01'
+        description: |2-
+          Assisted professors and instructors in different R and Statistics workshops aimed at undergraduates, graduates, and faculty of different universities in Puerto Rico.
     design:
       columns: '2'
   - block: experience
