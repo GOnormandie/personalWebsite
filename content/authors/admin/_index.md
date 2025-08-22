@@ -19,7 +19,7 @@ role: Data Scientist | Ecologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Population Biology & Genomics Group
+  - name: Population Biology & Genomics
     url: 'https://popbiolgenomics.org/'
   - name: Curtin University, Bentley Australia
     url: 'https://www.curtin.edu.au/about/'
@@ -149,7 +149,9 @@ highlight_name: true
 ---
 <p style='text-align: justify;'>Born and raised in Puerto Rico surrounded by nature, it seemed meant to be that I would become a scientist one day. I did my BSc at the University of Puerto Rico in Humacao where I worked with population dynamics of feral cats. My grandmothers transmitted their love for Orchids to me, and being an admirer of the work of Charles Darwin, I decided to complete a MSc studying orchids. I completed my MSc at the University of Puerto Rico in Río Piedras where I worked with the distribution and germination patterns of an epiphytic orchid endemic to Puerto Rico and how the interactions with its symbionts affect those patterns.
 
-<p style='text-align: justify;'>I am an advocate for inclusivity and accessibility to science, which prompted me to work as a Data Manager for a Research Education company, where currently I am in charge of the creation of educational datasets and material for students in Puerto Rico.
+<p style='text-align: justify;'>I am an advocate for inclusivity and accessibility to science, which prompted me to work as a Data Manager for a Research Education company, where I develop educational datasets and materials to improve data literacy of students in Puerto Rico.
 
-<p style='text-align: justify;'>I am in love with books and have not been known to say no to a cup of coffee or a pastry. I believe that food taste better and the breeze at the beach is cozier when shared with friends and family.</p>
+<p style='text-align: justify;'> In 2024, I relocated to Western Australia to complete a PhD in Environmental Sciences at Curtin University. Under the supervision of Prof. Ben Phillips, lead of the Population Biology and Genomics Group, my research aims to develop models for early eradication and management of invasive species to help with the advancement of informed biosecurity strategies in Australia.
+
+<p style='text-align: justify;'>I am in love with books and have not been known to say no to a cup of coffee or a pastry. I believe that food tastes better when shared with friends and family.</p>
 
