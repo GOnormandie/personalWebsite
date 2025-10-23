@@ -127,7 +127,7 @@ Skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:gonormandie@gmail.com
+    link: mailto:normandie.gonzalez@postgrad.curtin.edu.au
   - icon: researchgate
     icon_pack: fab
     link: 'https://www.researchgate.net/profile/Normandie-Gonzalez'
